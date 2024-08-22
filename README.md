@@ -4,7 +4,7 @@
 Jude Okolie (team lead), University of Oklahoma; Emmanuel Adeniyi, Louisiana State University; Faezeh Najafzadeh, University of Oklahoma; Jarely Mendez, Virginia Tech; Qianheng Zhang, University of Wisconsin, Madison; Samiha Nuzhat, Missouri State University; Siddiqur Rahman, University of Central Florida
 
 ## Background
-The proposed project aims to address concerns related to the removal of pharmaceuticals pollutants from wastewater, a critical environmental challenge due to the increasing prevalence of these pollutants. 
+The proposed project aims to address concerns related to the removal of pharmaceutical pollutants from wastewater, a critical environmental challenge due to the increasing prevalence of these pollutants. 
 Pharmaceuticals as emerging pollutants pose significant risks to both human health and the aquatic ecosystem. Their microscopic nature allows them to often go undetected, thereby complicating efforts to mitigate their impact.
 
 Biochar produced waste materials could be used as a promising adsorbent for the remediation of pharmaceutical pollutants. 
@@ -23,14 +23,14 @@ The proposed project contributes to the broader goal of maintaining and improvin
 2. Difficulties in acquiring experimental data
 
 ## Project Objectives
-1. Predict effectiveness of biochar in removing pharmaceuticals from wastewater
+1. Predict the effectiveness of biochar in removing pharmaceuticals from wastewater
 2. Determine optimal conditions to maximize pharmaceutical adsorption using biochar
-3. Understand properties of biochar & its efficiency in removing pharmaceuticals
+3. Understand the properties of biochar & its efficiency in removing pharmaceuticals
 
 ## Framing Project Within Social Science
 ### Environmental Justice and Equity
 1. Intersectionality & health impacts
-2. Disproportionate impacts on environment
+2. Disproportionate impacts on the environment
 3. Better prediction leads to safer water
 4. Biochar production enhances equitable resource distribution
 <img width="509" alt="image" src="https://github.com/user-attachments/assets/4354de24-1611-44be-8cb5-a2352431ee92">
