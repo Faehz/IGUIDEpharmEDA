@@ -1,6 +1,6 @@
 # Prediction of Pharmaceutical Removal from Wastewater with Machine Learning
 ## Background
-The proposed project aims to address concerns related to the removal of pharmaceuticals pollutants from wastewater, a critical environmental challenge due to the increasing prevalence of these pollutants. 
+The proposed project aims to address concerns related to the removal of pharmaceutical pollutants from wastewater, a critical environmental challenge due to the increasing prevalence of these pollutants. 
 Pharmaceuticals as emerging pollutants pose significant risks to both human health and the aquatic ecosystem. Their microscopic nature allows them to often go undetected, thereby complicating efforts to mitigate their impact.
 
 Biochar produced waste materials could be used as a promising adsorbent for the remediation of pharmaceutical pollutants. 
